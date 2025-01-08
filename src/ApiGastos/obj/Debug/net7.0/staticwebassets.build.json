@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zZE/X+gNYUM2uFIEMKDpl8MRkvsNw5OdtGCsBoToB+A=",
+  "Source": "ApiGastos",
+  "BasePath": "_content/ApiGastos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
